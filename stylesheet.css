@@ -1,0 +1,65 @@
+html {
+  font-size: 17px;
+  margin: 45px;
+  padding: 10px;
+    cursor: url('assets/cursor/fey.png'),auto;
+  background-color: #1a1a1a;
+  color: #C9CACB;
+  border-radius: 10px;
+  border-color: #C9CACB;
+  border-width: thick;
+  border-style: inset;
+}
+
+hr {
+  color: #43464B;
+  border-style: none;
+  border-top-radius: 5px;
+  border-top-width: none;
+  border-top-style: inset;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background-color: #1a1a1a;
+  color: #000000;
+}
+
+::selection {
+  background-color: #43464B;
+  color: #000000;
+}
+
+
+.text-align-right {
+  text-align: center;
+}
+
+.icons {
+  cursor: url('assets/cursor/cursor1.png'),auto;
+  margin-left: 410px;
+  margin-right: 410px;
+  height: inherit;
+  width: inherit;
+  display: block;
+  padding: 15px;
+  border-radius: 5px;
+  height: inherit;
+  width: inherit;
+  background-color: #C9CACB ;
+}
+
+#discord {
+  height: 50px;
+}
+
+#instagram {
+  height: 47.5px;
+}
+
+#github {
+  height: 47.5px;
+}
+
+#youtube {
+  height: 53.5px;
+}
