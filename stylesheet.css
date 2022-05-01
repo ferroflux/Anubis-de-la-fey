@@ -2,13 +2,17 @@ html {
   font-size: 17px;
   margin: 45px;
   padding: 10px;
-    cursor: url('assets/cursor/fey.png');
+    cursor: url('assets/cursor/fey.png'),auto;
   background-color: #1a1a1a;
   color: #C9CACB;
   border-radius: 10px;
   border-color: #C9CACB;
   border-width: thick;
   border-style: inset;
+}
+
+.title {
+  text-align: right;
 }
 
 hr {
@@ -29,20 +33,23 @@ hr {
   color: #000000;
 }
 
+.context {
+  text-align: right;
+}
 
 .text-align-right {
-  text-align: center;
+  text-align: right;
 }
 
 .icons {
-  cursor: url('assets/cursor/cursor1.png'),auto;
-  margin-left: 410px;
-  margin-right: 410px;
+  cursor: url('assets/cursor/fey.png'),auto;
+  margin-left: 510px;
+  margin-right: 510px;
   height: inherit;
   width: inherit;
-  display: block;
-  padding: 15px;
-  border-radius: 5px;
+  display:inline-block;
+  padding: 16px;
+  border-radius: 10px;
   height: inherit;
   width: inherit;
   background-color: #C9CACB ;
