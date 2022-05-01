@@ -2,7 +2,7 @@ html {
   font-size: 17px;
   margin: 45px;
   padding: 10px;
-    cursor: url('assets/cursor/fey.png'),auto;
+    cursor: url('assets/cursor/fey.png');
   background-color: #1a1a1a;
   color: #C9CACB;
   border-radius: 10px;
