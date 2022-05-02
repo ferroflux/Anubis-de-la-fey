@@ -5,10 +5,6 @@ html {
     cursor: url('assets/cursor/fey.png'),auto;
   background-color: #1a1a1a;
   color: #C9CACB;
-  border-radius: 10px;
-  border-color: #C9CACB;
-  border-width: thick;
-  border-style: inset;
 }
 
 .title {
